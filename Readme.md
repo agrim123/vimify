@@ -15,3 +15,10 @@
 | Move to top of file               |gg |
 | Begin a new line above the cursor | O |
 | Begin a new line below the cursor | o |
+| Go to function definition | Ctrl + ] |
+| Jump back from definition  | Ctrl + T|
+| Open the definition in a horizontal split | Ctrl+W Ctrl+] |
+| delete character at cursor | x|
+| delete a word | dw |
+| delete to the beginning of a line | d0 |
+| delete to end of the line | d$ |
