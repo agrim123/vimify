@@ -22,3 +22,7 @@
 | delete a word | dw |
 | delete to the beginning of a line | d0 |
 | delete to end of the line | d$ |
+| Cut a line| dd|
+| Paste a line | p |
+| Select and cut multiple lines|v + d | 
+| Move a line to `n` number | :m2|
