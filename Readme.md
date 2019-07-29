@@ -26,3 +26,4 @@
 | Paste a line | p |
 | Select and cut multiple lines|v + d | 
 | Move a line to `n` number | :m2|
+| Turn off highlighting | :noh|
