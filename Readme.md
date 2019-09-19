@@ -28,3 +28,9 @@
 | Select and cut multiple lines|v + d | 
 | Move a line to `n` number | :m2|
 | Turn off highlighting | :noh|
+| move current line to the middle of the screen| z z|
+| Moves screen up one line | ctrl + y|
+| Moves screen down one line | ctrl + e|
+|Moves cursor & screen up 1/2 page|Ctrl-u |
+| Moves cursor & screen down 1/2 page | Ctrl-d|
+| Move to end of the matching brace | % |
