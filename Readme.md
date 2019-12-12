@@ -34,3 +34,8 @@
 |Moves cursor & screen up 1/2 page|Ctrl-u |
 | Moves cursor & screen down 1/2 page | Ctrl-d|
 | Move to end of the matching brace | % |
+
+## 
+
+- `^\(\s\s\)\+` for highlighting spacing
+- Comment/uncomment block of lines -> https://stackoverflow.com/a/1676690
