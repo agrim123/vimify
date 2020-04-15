@@ -37,5 +37,12 @@
 
 ## 
 
+- Replace
+```bash
+:%s/foo/bar/g # Find each occurrence of 'foo' (in all lines), and replace it with 'bar'.
+
+:2,5s/foo/bar/g # Change each 'foo' to 'bar' for all lines from line 2 to line 5 inclusive.
+```
+
 - `^\(\s\s\)\+` for highlighting spacing
 - Comment/uncomment block of lines -> https://stackoverflow.com/a/1676690
